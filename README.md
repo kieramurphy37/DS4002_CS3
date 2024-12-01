@@ -23,7 +23,6 @@
   - `MI3_Analysis_AllSentimentScores.ipynb`: Analysis of all sentiment score data points
   - `MI3_Analysis_Negative.ipynb`: Analysis of negative sentiment score data points
   - `MI3_Analysis_Positive.ipynb`: Analysis of positive sentiment score data points
-  - `DataAppendixScript.ipynb`: Used to create data appendix 
 
 ## Reproduction Information
 
