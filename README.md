@@ -9,8 +9,8 @@
 ## Documentation Map
 
 -**ProjectOverview Folder**: Contains information important to understanding the purpose and goal of the project.
-  - `CS3 Blog Post.pdf`: contains informationd found online about the topic
-  - article
+  - `CS3 Blog Post.pdf`
+  - `Online Review Trends Affecting Consumers Today.pdf`
   - hook document
   - rubric
 - **Data Folder**: Contains all data
